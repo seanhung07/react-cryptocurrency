@@ -1,5 +1,5 @@
 # A website show current crpytocurrency icon and market prices
-### `https://seanhung07.github.io/react-cryptocurrency/`
+Open [https://seanhung07.github.io/react-cryptocurrency/](https://seanhung07.github.io/react-cryptocurrency/) to visit the page.
 
 ## Available Scripts
 
