@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# A website show current crpytocurrency icon and market prices
+### `https://seanhung07.github.io/react-cryptocurrency/`
 
 ## Available Scripts
 
