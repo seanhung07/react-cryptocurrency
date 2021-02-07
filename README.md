@@ -1,4 +1,4 @@
-# A website show current crpytocurrency icon and market prices
+# A website show current cryptocurrency icon and market prices
 Open [https://seanhung07.github.io/react-cryptocurrency/](https://seanhung07.github.io/react-cryptocurrency/) to visit the page.
 
 ## Available Scripts
